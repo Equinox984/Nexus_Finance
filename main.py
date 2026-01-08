@@ -1,6 +1,5 @@
 """Nexus Finance Engine"""
 
-import engine
 
 # Lists & Modules
 
